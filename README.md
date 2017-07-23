@@ -6,7 +6,7 @@
 
 # REST API
 
-##List of basic routes:
+## List of basic routes:
 
 
 | Routes | HTTP | Description |
